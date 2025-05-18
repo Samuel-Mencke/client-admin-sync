@@ -1,1 +1,11 @@
-
+{
+    "clients": [
+        {
+            "username": "samue",
+            "network_ip": "192.168.1.100",
+            "user_ip": "89.58.66.162",
+            "timestamp": "2025-05-18T08:16:24.866169+00:00",
+            "usetime": 0
+        }
+    ]
+}
