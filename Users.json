@@ -1,24 +1,24 @@
 {
-  "clients": [
-    {
-      "username": "samue",
-      "network_ip": "192.168.1.100",
-      "user_ip": "89.58.66.162",
-      "timestamp": "2025-05-18T12:33:51.247083+00:00",
-      "usetime": 0,
-      "status": "offline",
-      "blocked": true,
-      "screenshot_request": false
-    },
-    {
-      "username": "nikla",
-      "network_ip": "192.168.1.100",
-      "user_ip": "178.191.194.61",
-      "timestamp": "2025-05-18T15:20:32.085518+00:00",
-      "usetime": 0,
-      "status": "online",
-      "blocked": false,
-      "screenshot_request": false
-    }
-  ]
+    "clients": [
+        {
+            "username": "samue",
+            "network_ip": "192.168.1.100",
+            "user_ip": "89.58.66.162",
+            "timestamp": "2025-05-18T12:33:51.247083+00:00",
+            "usetime": 0,
+            "status": "offline",
+            "blocked": true,
+            "screenshot_request": false
+        },
+        {
+            "username": "nikla",
+            "network_ip": "192.168.1.100",
+            "user_ip": "178.191.194.61",
+            "timestamp": "2025-05-18T17:11:07.075709+00:00",
+            "usetime": 0,
+            "status": "online",
+            "blocked": false,
+            "screenshot_request": false
+        }
+    ]
 }
