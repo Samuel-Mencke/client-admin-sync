@@ -17,7 +17,7 @@
       "timestamp": "2025-05-18T11:56:17.412950+00:00",
       "usetime": 0,
       "status": "online",
-      "blocked": true,
+      "blocked": false,
       "screenshot_request": false
     }
   ]
