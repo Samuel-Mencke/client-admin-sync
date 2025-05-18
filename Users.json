@@ -9,7 +9,7 @@
       "status": "offline",
       "Blocked": false,
       "screenshot_request": false,
-      "blocked": false
+      "blocked": true
     }
   ]
 }
