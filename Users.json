@@ -7,7 +7,7 @@
       "timestamp": "2025-05-19T15:00:35.249884+00:00",
       "usetime": 0,
       "status": "offline",
-      "blocked": true,
+      "blocked": false,
       "screenshot_request": false
     },
     {
