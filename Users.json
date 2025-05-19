@@ -4,9 +4,9 @@
             "username": "samue",
             "network_ip": "192.168.1.100",
             "user_ip": "89.58.66.240",
-            "timestamp": "2025-05-19T16:52:12.776447+00:00",
+            "timestamp": "2025-05-19T16:52:18.849978+00:00",
             "usetime": 0,
-            "status": "online",
+            "status": "offline",
             "blocked": false,
             "screenshot_request": false
         },
