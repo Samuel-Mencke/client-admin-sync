@@ -24,9 +24,9 @@
             "username": "User",
             "network_ip": "192.168.1.100",
             "user_ip": "89.58.66.49",
-            "timestamp": "2025-06-01T17:18:10.803010+00:00",
+            "timestamp": "2025-06-01T17:18:25.757162+00:00",
             "usetime": 0,
-            "status": "offline",
+            "status": "online",
             "blocked": false,
             "screenshot_request": false
         }
